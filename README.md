@@ -6,7 +6,7 @@ Self-taught, passionate about learning new things, and always ready to face new 
 
 <br>
 <details>
-	<summary>&nbsp;&nbsp;&nbsp;<b>Skills</b></summary>
+	<summary>&nbsp;&nbsp;&nbsp;<img src="https://i.ibb.co/K5cyGgD/icons8-checkmark-52.png" width="20px" height="20px" /> <b>Skills</b></summary>
 	<br/>
 	<img src="https://img.shields.io/badge/-HTML%2FCSS-%23222326" alt="HTML/CSS"/>
 	<img src="https://img.shields.io/badge/-JavaScript-%23222326" alt="Javascript"/>
@@ -17,7 +17,7 @@ Self-taught, passionate about learning new things, and always ready to face new 
 	<img  src="https://img.shields.io/badge/-Firebase-%23222326"  alt="HTML5"/>
 	<img  src="https://img.shields.io/badge/-Bootstrap-%23222326"  alt="Bootstrap"/>
 	<img  src="https://img.shields.io/badge/-Adobe%20XD-%23222326" alt="AdobeXD"/>
-</details><br>
+</details>
 
 
 <h4 align="left">Connect with me:</h4>  
