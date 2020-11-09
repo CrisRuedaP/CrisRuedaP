@@ -1,5 +1,3 @@
-<img src="https://i.ibb.co/tb7rHhk/Naranja-y-Blanco-Cupcake-H-pster-Logo.png" width="40px" height="40px" align="right" />
-
 ### Hi there, I'm Cristina!
 ---
 <h4 align="start">Software Developer from Colombia.</h3>  
