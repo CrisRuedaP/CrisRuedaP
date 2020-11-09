@@ -19,9 +19,6 @@ Self-taught, passionate about learning new things, and always ready to face new 
 	<img  src="https://img.shields.io/badge/-Adobe%20XD-%23222326" alt="AdobeXD"/>
 </details><br>
 
- 
-
-<a href="mailto:crisruedap@gmail.com" target="blank"><img align="center" src="https://i.ibb.co/VC8DHrG/icons8-postal-80.png" alt="mail" height="25" width="25" /></a> How to reach me: **crisruedap@gmail.com** 
 
 <h4 align="left">Connect with me:</h4>  
 <p align="left">  
