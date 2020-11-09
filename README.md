@@ -1,8 +1,8 @@
-<img src="https://i.ibb.co/tb7rHhk/Naranja-y-Blanco-Cupcake-H-pster-Logo.png" width="30px" height="30px" align="right" />
+<img src="https://i.ibb.co/tb7rHhk/Naranja-y-Blanco-Cupcake-H-pster-Logo.png" width="40px" height="40px" align="right" />
 
 ### Hi there, I'm Cristina!
+---
 <h4 align="start">Software Developer from Colombia.</h3>  
-  
 I am a motivated, flexible, and innovative person. Focused on the front-end. Very excited about UI design.<br>
 Self-taught, passionate about learning new things, and always ready to face new challenges.<br>
 
