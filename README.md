@@ -4,7 +4,7 @@
 <br>I am a motivated, flexible, and innovative person. Focused on the front-end. Very excited about UI design.<br>
 Self-taught, passionate about learning new things, and always ready to face new challenges.<br>
   
-<br>- <a href="mailto:crisruedap@gmail.com" target="blank"><img align="center" src="https://i.ibb.co/VC8DHrG/icons8-postal-80.png" alt="crisruedap" height="30" width="30" /></a>  How to reach me: **crisruedap@gmail.com**  
+<br><a href="mailto:crisruedap@gmail.com" target="blank"><img align="center" src="https://i.ibb.co/VC8DHrG/icons8-postal-80.png" alt="crisruedap" height="30" width="30" /></a>  How to reach me: **crisruedap@gmail.com**  
   
 <h4 align="left">Connect with me:</h4>  
 <p align="left">  
