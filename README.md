@@ -1,4 +1,4 @@
-### Hi there, <span style="color:#f16059">I'm Cristina!</span>
+### Hi there, I'm Cristina!
 <h4 align="start">Software Developer from Colombia.</h3>  
   
 I am a motivated, flexible, and innovative person. Focused on the front-end. Very excited about UI design.<br>
@@ -17,7 +17,7 @@ Self-taught, passionate about learning new things, and always ready to face new 
 	<img  src="https://img.shields.io/badge/-Firebase-%23222326"  alt="HTML5"/>
 	<img  src="https://img.shields.io/badge/-Bootstrap-%23222326"  alt="Bootstrap"/>
 	<img  src="https://img.shields.io/badge/-Adobe%20XD-%23222326" alt="AdobeXD"/>
-</details>
+</details><br>
 
  
 
