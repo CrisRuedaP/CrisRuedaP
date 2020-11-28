@@ -1,6 +1,6 @@
 ### Hi there, I'm Cristina!
 ---
-<h4 align="start">Software Developer from Colombia.</h3>  
+<h4 align="start">Front-End Developer from Colombia.</h3>  
 I am a motivated, creative, and innovative person. Focused on the front-end. Very excited about UI design.<br>
 Self-taught, passionate about learning new things, and always ready to face new challenges.<br>
 
