@@ -1,7 +1,7 @@
 ### Hi there, I'm Cristina!
 
-<a href="https://app.daily.dev/Crisrp">
-	<img src="https://api.daily.dev/devcards/d2bf284bdc5847fd881ba928053714a7.png?r=xgt" 
+<a href="https://app.daily.dev/Crisrp" target="_blank">
+	<img src="https://raw.githubusercontent.com/CrisRuedaP/CrisRuedaP/devcard/devcard.svg"
 	width="200" 
 	align="right"
 	alt="Cristina Rueda's Dev Card"/>
