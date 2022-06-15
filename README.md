@@ -1,5 +1,14 @@
 ### Hi there, I'm Cristina!
+
+<a href="https://app.daily.dev/Crisrp">
+	<img src="https://api.daily.dev/devcards/d2bf284bdc5847fd881ba928053714a7.png?r=xgt" 
+	width="250" 
+	align="right"
+	alt="Cristina Rueda's Dev Card"/>
+</a>
+
 ---
+
 <h4 align="start">Front-End Developer from Colombia.</h4>  
 I am a motivated, creative, and innovative person. Focused on the front-end. Very excited about UI design.<br>
 Self-taught, passionate about learning new things, and always ready to face new challenges.<br>
