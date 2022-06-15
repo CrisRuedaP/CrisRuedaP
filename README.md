@@ -2,7 +2,7 @@
 
 <a href="https://app.daily.dev/Crisrp">
 	<img src="https://api.daily.dev/devcards/d2bf284bdc5847fd881ba928053714a7.png?r=xgt" 
-	width="250" 
+	width="200" 
 	align="right"
 	alt="Cristina Rueda's Dev Card"/>
 </a>
