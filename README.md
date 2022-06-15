@@ -4,12 +4,6 @@
 I am a motivated, creative, and innovative person. Focused on the front-end. Very excited about UI design.<br>
 Self-taught, passionate about learning new things, and always ready to face new challenges.<br>
 
-<a href="https://app.daily.dev/Crisrp">
-	<img src="https://github.com/CrisRuedaP/CrisRuedaP/blob/master/devcard.svg" 
-	width="256"
-	align="right" 
-	alt="Cristina's Dev Card"/>
-</a>
 
 <br>
 <details>
