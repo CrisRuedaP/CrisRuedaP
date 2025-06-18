@@ -1,9 +1,14 @@
-### Hi there, I'm Cristina!
+# Hey! I'm Cristina 👋
 
+A Front-End Developer based in Spain.
 
-<h4 align="start">Front-End Developer from Colombia.</h4>  
-I am a motivated, creative, and innovative person. Focused on the front-end. Very excited about UI design.<br>
-Self-taught, passionate about learning new things, and always ready to face new challenges.<br>
+I enjoy building clean, simple interfaces and turning ideas into things people can actually use.  
+I’m really into UI design — especially the little details that make an app feel smooth and enjoyable.
 
-<h4 align="left">Connect with me on:</h4>    
-<a href="https://linkedin.com/in/crisruedap" target="_blank">Linkedin</a>   
+Self-taught, naturally curious, and always exploring new tools, techniques, and challenges to keep growing as a developer.
+
+---
+
+### 📫 Let’s connect:
+
+[LinkedIn](https://www.linkedin.com/in/crisruedap/)
