@@ -1,4 +1,4 @@
-# Hey! I'm Cristina 👋
+### Hey! I'm Cristina 👋
 
 A Front-End Developer based in Spain.
 
