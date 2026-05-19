@@ -1,11 +1,11 @@
-### Hey! I'm Cristina 👋
+## Hi, I’m Cristina 👋
 
-I’m a Frontend Developer based in Spain with a natural eye for detail and a strong focus on building clean, user-friendly interfaces.
+Frontend Engineer focused on web accessibility.
 
-I’m particularly committed to web accessibility. I strive to make sure every product I build is inclusive and usable for everyone. Self-taught, curious, and constantly exploring new ways to create smoother, more accessible digital experiences.
+Currently deepening my skills in TypeScript and testing.
 
 ---
 
-#### 📫 Let’s connect:
-
+How to reach me:
 [LinkedIn](https://www.linkedin.com/in/crisruedap/)
+
