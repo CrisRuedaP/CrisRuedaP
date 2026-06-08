@@ -1,8 +1,6 @@
-## Hi, I’m Cristina 👋
+## Hi, I’m Cristina.
 
-Frontend Engineer focused on web accessibility.
-
-Currently deepening my skills in TypeScript and testing.
+Frontend developer focused on accessibility and creating usable, inclusive UI.
 
 ---
 
